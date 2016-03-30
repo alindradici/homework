@@ -1,2 +1,3 @@
 git is soo cool .
 modificare noua
+modificare de pe master
